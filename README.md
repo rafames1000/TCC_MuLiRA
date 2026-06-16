@@ -29,10 +29,12 @@ Certifique-se de ter o Python instalado em sua máquina.
 ### 2. Instalação das Dependências
 Abra o seu terminal/prompt de comando na pasta do projeto e execute:
 ```bash
-pip install -r requirements.txt```
+pip install -r requirements.txt
+```
 
 ### 3. Inicialização
 Após a instalação das dependências, execute o arquivo principal:
 
 ```bash
-python TCC_MuLiRA.py```
+python TCC_MuLiRA.py
+```
