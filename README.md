@@ -1,6 +1,6 @@
 # MuLiRA Py-Ex - Multiple Linear Regression Analysis Python-Excel
 
-Este software foi desenvolvido como objeto de estudo e produto prático para o Trabalho de Conclusão de Curso (TCC) de Rafael Mees, sob a orientação de [Nome do Orientador], para o curso de Bacharelado em Engenharia de Software na UniCesumar.
+Este software foi desenvolvido como objeto de estudo e produto prático para o Trabalho de Conclusão de Curso (TCC) de Rafael Mees, sob a orientação de Ana Lucia Sanchez Panico, para o curso de Bacharelado em Engenharia de Software na UniCesumar.
 
 O **MuLiRA** é uma aplicação desktop com interface gráfica voltada para automação de processos de Regressão Linear Múltipla (RLM). Ele gerencia de forma inteligente a importação de dados textuais e hifens de planilhas eletrônicas, forçando conversões e aplicando validações matemáticas robustas antes da modelagem estatística.
 
