@@ -19,22 +19,29 @@ A aplicação foi inteiramente desenvolvida em **Python 3** utilizando as seguin
 * **Statsmodels:** Motor de cálculos estatísticos e Regressão OLS.
 * **Matplotlib:** Renderização de gráficos de diagnóstico integrados na GUI.
 
-## 💻 Como Executar o Projeto
+## 💻 Como Executar a Aplicação
 
-Para testar ou rodar a aplicação localmente a partir do código fonte, siga os passos abaixo:
+Este projeto oferece duas formas de execução, dependendo do seu perfil de usuário:
 
-### 1. Pré-requisitos
-Certifique-se de ter o Python instalado em sua máquina.
+### Opção 1: Versão Executável (Para Usuários Finais - Windows)
+A forma mais fácil de utilizar o MuLiRA, sem necessidade de instalar o Python ou configurar ambientes.
 
-### 2. Instalação das Dependências
-Abra o seu terminal/prompt de comando na pasta do projeto e execute:
+1. Acesse a seção de Downloads (Releases) clicando [neste link](https://github.com/Eduardo130200/MuLiRA/releases/tag/v1.0.0).
+2. Baixe o arquivo `MuLiRA.exe` (ou o arquivo .zip contendo o executável).
+3. Dê um duplo clique no arquivo para abrir a aplicação (nenhuma instalação adicional é necessária).
+
+### Opção 2: A Partir do Código Fonte (Para Avaliação Técnica/Desenvolvedores)
+Para auditar o código ou rodar o projeto em modo de desenvolvimento, siga os passos:
+
+**1. Pré-requisitos:** Certifique-se de ter o Python 3.x instalado.
+
+**2. Instalação das Dependências:**
+Abra o terminal na pasta raiz do projeto e instale as bibliotecas necessárias:
 ```bash
 pip install -r requirements.txt
 ```
-
-### 3. Inicialização
-Após a instalação das dependências, execute o arquivo principal:
-
+### Opção 3: Inicialização:
+Execute o arquivo principal para abrir a interface gráfica:
 ```bash
 python TCC_MuLiRA.py
 ```
