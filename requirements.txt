@@ -1,0 +1,6 @@
+future
+matplotlib
+numpy
+openpyxl
+pandas
+statsmodels
