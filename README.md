@@ -26,7 +26,7 @@ Este projeto oferece duas formas de execução, dependendo do seu perfil de usu�
 ### Opção 1: Versão Executável (Para Usuários Finais - Windows)
 A forma mais fácil de utilizar o MuLiRA, sem necessidade de instalar o Python ou configurar ambientes.
 
-1. Acesse a seção de Downloads (Releases) clicando [neste link](https://github.com/Eduardo130200/MuLiRA/releases/tag/v1.0.0).
+1. Acesse a seção de Downloads (Releases) clicando [neste link](https://github.com/rafames1000/TCC_MuLiRA/releases/tag/v1.0.0).
 2. Baixe o arquivo `MuLiRA.exe` (ou o arquivo .zip contendo o executável).
 3. Dê um duplo clique no arquivo para abrir a aplicação (nenhuma instalação adicional é necessária).
 
